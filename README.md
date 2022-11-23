@@ -111,3 +111,6 @@ Get you API key from https://account.shodan.io/
 
 Be sure to register with an academic email for free credits: https://help.shodan.io/the-basics/academic-upgrade
 
+# Use
+
+Replace the example key in `input/api.key` with your own api key. Open the Jupyter Notebook `shodan_demo.ipynb` and run the code.
